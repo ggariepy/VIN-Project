@@ -1,0 +1,51 @@
+<% INCLUDE header
+   title = 'Add VIN Decode Elements'
+%>
+
+<form action="post">
+<div id="vincodes_input">
+	<h3>VIN 5-6-7 Code Entry</h3>
+	<input type="text" name="codes">
+</div>
+
+<div id="div_bodystyles">
+	<h3>Choose Body Style</h3>
+	<datalist id="bodystyles">
+	<% FOREACH bodystyle IN bodystyles %>
+	   <option value="<% bodystyle %>>" />
+	<% END %>
+	</datalist>
+</div>
+
+<div id="div_trimlevels">
+	<h3>Choose Trim Level</h3>
+	 <datalist id="trimlevels">
+	<% FOREACH trimlevel IN trimlevels %>
+	   <option value="<% trimlevel %>>" />
+	<% END %>
+	</datalist>
+</div>
+
+<div id="div_families">
+	<h3>Choose Vehicle Family</h3>
+	<datalist id="vehicle_families">
+	<% FOREACH family IN vehiclefamilies %>
+	   <option value="<% family %>>" />
+	<% END %>
+	</datalist>
+</div>
+
+<div id="div_vehicle_types">
+	<h3>Choose Vehicle Type</h3>
+	<datalist id="vehicle_types">
+	<% FOREACH type IN vehicletypes %>
+	   <option value="<% type %>>" />
+	<% END %>
+	</datalist>
+</div>
+
+<button id="button_submit">Submit</button>
+
+</form>
+
+<% INCLUDE footer %>

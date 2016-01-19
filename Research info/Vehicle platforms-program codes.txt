@@ -1,0 +1,222 @@
+Vehicle program codes
+
+A1- New Yorker, Spirit (1992-1995, export)
+A3- Lebaron (1993-1995, export)
+A4- Phantom (1992-1993, export)
+A9- ?
+AA- Acclaim, Lebaron, Lebaron Landeau, Spirit (1989-1994)
+AB- Ram van, Ram wagon (1989-2000)
+AC- Dynasty, New Yorker, New Yorker Landau, New Yorker Salon (1993-1994)
+AD- Ram, Ramcharger D-series (1972-1993)
+AF- Pickup, Sport Utility (1993, Mexico)
+AG- Daytona, Iroc, Pacifica, Shelby, Laser (1992-1993)
+AH- Lebaron GTS, Lancer?
+AJ- Lebaron (1992-1995)
+AK- Reliant, Aries
+AL- Omni, Horizon, Charger, Turismo, Rampage, Scamp GT
+AM- Diplomat, Lebaron, New Yorker, Caravelle
+AN- Dakota 1st gen (-1996), 2nd gen (1997-2004)
+AP- Shadow Sundance, Shadow Convertible, Duster (1989-1994)
+AS- Caravan, Town &amp; Country, Voyager (1983-1995)
+
+AY- Imperial (1992-1993)
+AY- 5th Avenue (1992)
+AY- New Yorker (1993)
+
+B2- Colt, Summit, Vista (1992)
+B4- Ram 50 swb &amp; lwb, Ram 50 SE, Power Ram 50 swb
+B7- Stealth, Stealth ES, Stealth R/T, 2000 Canadian GTX (1992-1996, import)
+B8- Colt, Summit Wagon, Vista (1992, import)
+B9- Colt, Summit (1993-1996, import)
+BB- Monaco, Premier (1988-1990)
+BD- Laser, Talon (1992-1994, import)
+BE- Ram, Ram club cab (1994-2001)
+BR- Ram cab &amp; chassis (1994-2001)
+BT- Ram (2000-2002, Mexico)
+BW- Ramcharger (1999, Mexico)
+BX- Ram Quad and club cab (Mexico)
+CA- ?
+CJ- Jeep (1945-1985)
+CS- Pacifica (2003-2008)
+CT- Pacifica (2008-up - cancelled)
+CU- Pacifica future gen?
+CY- Imperial
+D1- Ram 3500 (2006-2008)
+D2- Ram 3500 (2009-up)
+D3- Ram 3500 future gen?
+DA- Ram 4500 (2008-up)
+DC- Ram 3500 Cab Chassis (2007-2008)
+DD- Ram 3500 Cab Chassis 2009-up?
+DH- Ram HD Regular &amp; Quad cab (2005-2006)
+DH- Ram 2500 (2007-2008)
+DJ- Jeep (1955-1982)
+DK- ?
+DM- Ram 5500 (2008-up)
+DN- Durango 1st gen (1998-2003)
+DP- ?
+
+DR- Ram Regular &amp; Quad Cab 3rd gen (2002-2006)
+DR- Ram 1500 (2007-2008)
+
+DS- Ram 1500 4th gen (2009-up)
+DT- Ram 5th gen?
+DU- ?
+DX- Ram (2005-2008, Mexico)
+DY- Ram (2009-up?, Mexico)
+EB- PT Cruiser (replaced by PB, cancelled?)
+ES- Voyager, Grand Voyager (1992-1995, Europe)
+FC- Forward Control trucks (1956-1965)
+FJ- Talon ESI, Talon TSI (1994, import)
+FJ- Avenger, Avenger ES, Sebring LX, Sebring LXI (1995-2000)
+GA- Dodge M80 concept, production version (CANCELLED)
+G1- ?
+G5- ?
+GD- ?
+GF- ?
+GS- Voyager, Grand Voyager (Europe)
+GT- ?
+HB- Durango 2nd gen (2004-up)
+HC- Durango 3rd gen?
+HD- Durango 4th gen?
+HG- Aspen 1st gen (2007-up)
+HH- Aspen 2nd gen (cancelled?)
+J1- CKD?
+J2- Cirrus, Stratus (1998, export)
+J4- Cirrus R/T convertible (1998-2000, Mexico)
+J5- ?
+J7- ?
+J8- ?
+
+JA- Cirrus, Stratus (1995-2000)
+JA- Breeze (1996-2000)
+
+JC- Dodge crossover 1st gen (2009-up)
+JD- Dodge crossover 2nd gen?
+JF- ?
+JK- Wrangler 6th gen, Wrangler Unlimited 1st gen (2007-up)
+JL- Wrangler 7th gen?
+JR- Sebring, Sebring convertible, Stratus (2001-2006)
+JS- Sebring, Avenger (2007-up)
+JT- Sebring, Avenger next gen?
+JX- Sebring JX, Sebring JXI (1996-2000)
+JZ- Chrysler version of the Dodge crossover (circa 2010)
+L1- CKD?
+L2- 300C CKD (Chinese, 2007)
+LC- Challenger (LC22) (2008-up)
+LC- Challenger SRT8 (LC22) (2009-up)
+LD- Challenger (2nd gen)
+LE- 300, Magnum, Charger (Europe)
+
+LH- 300M (1999-2004)
+LH- Concorde (1993-1998)
+LH- Intrepid (1993-1998)
+LH- LHS (1994-2001, no 1998 model)
+LH- New Yorker (1994-1997)
+LH- Vision (1993-1998)
+
+LK- ?
+LS- ? (includes SRT model)
+LT- ?
+
+LX- 300, 300C, 300C SRT8 (2005-up)
+LX- Charger, Charger SRT8 (2006-up)
+LX- Magnum (2005-up)
+LX- Magnum SRT8 (2006-up)
+LY- 300, Charger, Magnum (next gen)
+LZ-
+
+K1- Cherokee CKD (2002-2007) 
+KA- Nitro 1st gen (2007-up)
+KB- Nitro 2nd gen
+KJ- Liberty 1st gen (2002-2007)
+KK- Liberty 2nd gen (2008-up)
+KL- Liberty 3rd gen?
+MA- ?
+MJ- Commanche 1986-1992
+MK- Compass, Patriot (2007-up)
+ML- Compass, Patriot 2nd gen?
+NB- Dakota (?)
+ND- Dakota 3rd gen (2005-up)
+NE- Dakota 4th gen
+NM- MMC Raider (2006; 2008)
+NS- Caravan, Voyager, Town &amp; Country (1996-2000)
+NT- Jeep J10/J20 pickup (1984-1988)
+P1- Neon CKD (1998)
+P2- Neon CKD (2000-2006)
+P3- Caliber CKD (2007)
+P5- PT Cruiser (2001-2007, Mexico)
+PB- PT Cruiser (cancelled?)
+PG- PT Cruiser (2002-2003, export)
+PJ- 
+PK-
+PL- Neon, Neon Canada SX2 (1995-2005)
+PM- Caliber (2007-up)
+PN- Caliber 2nd gen
+PR- Prowler
+PT- PT Cruiser 1st gen (2001-2008)
+PV- ?
+PW- Full size vans?
+R1- Dakota CKD (1998-2001)
+R2- Voyager CKD (2006-2007)
+RA- ?
+RE- ?
+
+RG- Caravan, Voyager, Town &amp; Country (2001-2006, export)
+RG- Voyager (2007, export)
+
+RM- Minivan (VW version Chrysler minivan)
+RS- Minivan (2001-2007)
+RT- Minivan (2008-up)
+RU- Minivan future gen or export
+
+SJ- Jeep J series (1963-1986)
+SJ- Wagoneer (1963-1983)
+SJ- Super Wagoneer (1966-1969) 
+SJ- Grand Wagoneer (1984-1991)
+SJ- Cherokee (1974-1983)
+
+SR- Viper (1992-2002)
+ST- Stratus &amp; Sebring coupe (2002-2005)
+T1- Wrangler CKD?
+TJ- Wrangler (1997-2006)
+VA- Sprinter (2002-up)
+VJ- Willys Jeepster (1948-1950)
+VB- Sprinter next gen?
+VT- ?
+
+W1- Grand Cherokee CKD WJ (1999-2005)
+W2- Grand Cherokee CKD WK (2006-up)
+W6- ?
+WC- (new)
+WD- ?
+WE- (new)
+WG- Grand cherokee 2nd gen (1999-2004, export)
+WJ- Grand cherokee 2nd gen (1999-2004)
+WH- Grand Cherokee 3rd gen (2005-2010, export)
+WK- Grand Cherokee 3rd gen (2005-2010)
+WK- Grand Cherokee SRT8 (2006-2010)
+WL- Grand Cherokee 4th gen
+WM- Grand Cherokee 4th gen export
+WX- (new)
+WY- ?
+
+X1- Cherokee CKD (1999-2001)
+X2- ?
+XJ- Cherokee (1984-2001)
+
+XH- Commander 1st gen (2006-up, export)
+XK- Commander 1st gen (2006-up)
+XL- Commander 2nd gen
+XM- Commander 2nd gen (export)
+
+YJ- Wrangler (1984-1995)
+YK- Jeep (?)
+Z1- (CKD future use?)
+
+ZB- Viper 3rd gen (2003-2009, no 2007 model year)
+ZC- Viper 4th gen (2010-up)
+ZD- Viper 5th gen?
+
+ZH- Crossfire 1st gen (2004-2007)
+ZG- Grand Cherokee 1st gen (1993-1998, export)
+ZJ- Grand Cherokee 1st gen (1993-1998)

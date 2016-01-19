@@ -1,0 +1,98 @@
+--2009 VIN DECODE
+-- VIN '3' Vehicle Type
+	create table vehicle_type (Year NUMERIC, VIN_Code TEXT, Description TEXT);
+	insert into vehicle_type values(2009,'4' , 'Multipurpose Passenger Vehicle');
+	insert into vehicle_type values(2009,'8' , 'Multipurpose Passenger Vehicle');
+	insert into vehicle_type values(2009,'2' , 'Incomplete Vehicle');
+	insert into vehicle_type values(2009,'6' , 'Incomplete Vehicle');
+	insert into vehicle_type values(2009,'3' , 'Truck');
+	insert into vehicle_type values(2009,'7' , 'Truck');
+
+-- VIN '4' GVWR_Safety_Equip
+	create table Restraint_Types(Type_ID NUMERIC, Description TEXT);
+	insert into Restraint_Types values(1, 'Active Belts (A.S.P.), Front Air Bags (O.S.P.), No Side Air Bags');
+	insert into Restraint_Types values(2, 'Active Belts (A.S.P.), Front Air Bags (O.S.P.), Side Air Bags Front Row');
+	insert into Restraint_Types values(3, 'Active Belts (A.S.P.), Front Air Bags (O.S.P.), Side Air Bags All Rows');
+	insert into Restraint_Types values(4, 'Active Belts (A.S.P.), No Air Bags');
+	insert into Restraint_Types values(5, 'Active Belts (A.S.P.), Trucks over 10,000lbs GVWR');
+	insert into Restraint_Types values(6, 'Incomplete Vehicles With Hydraulic Brakes');
+
+	insert into GVWR_Restraints values(2009, 'D','1-3000#',1);
+	insert into GVWR_Restraints values(2009, 'E','3001-4000#',1);
+	insert into GVWR_Restraints values(2009, 'F','4001-5000#',2);
+	insert into GVWR_Restraints values(2009, 'G','5001-6000#',3);
+	insert into GVWR_Restraints values(2009, 'H','6001-7000#',1); 
+	insert into GVWR_Restraints values(2009, 'J','7001-8000#',1); 
+	insert into GVWR_Restraints values(2009, 'K','8001-9000#',1); 
+	insert into GVWR_Restraints values(2009, 'L','9001-10000#',1); 
+	insert into GVWR_Restraints values(2009, 'M','10001-14000#',5);
+	insert into GVWR_Restraints values(2009, 'W','Incomplete Vehicle',6);
+
+-- VIN '5'	Model Line and Vehicle Family
+	insert into model_line values('Truck',2009,'5','Ram Pickup Light Duty (4x2) DX Family');
+	insert into model_line values('Truck',2009,'B','Ram Pickup Light Duty (4x2) DS Family'); 
+	insert into model_line values('Truck',2009,'V','Ram Pickup Light Duty (4x4) DS Family');
+	insert into model_line values('Truck',2009,'R','Ram Pickup Heavy Duty (4x2) DH Family');
+	insert into model_line values('Truck',2009,'S','Ram Pickup Heavy Duty (4x4) DH Family');
+	insert into model_line values('Truck',2009,'L','Ram Pickup Heavy Duty (4x2) D1 Family');
+	insert into model_line values('Truck',2009,'X','Ram Pickup Heavy Duty (4x4) D1 Family');
+	insert into model_line values('Truck',2009,'G','Ram Chassis Cab (4x2) DC Family');
+	insert into model_line values('Truck',2009,'H','Ram Chassis Cab (4x4) DC Family');
+	insert into model_line values('Truck',2009,'N','Ram Cab Chassis (4x2) DX Family');
+	insert into model_line values('Truck',2009,'C','Ram Cab Chassis (4x2) DM Family');
+	insert into model_line values('Truck',2009,'D','Ram Chassis Cab (4x4) DM Family');
+	insert into model_line values('Truck',2009,'E','Dakota 4x2 ND Family');
+	insert into model_line values('Truck',2009,'W','Dakota 4x4 ND Family');
+	insert into model_line values('MPV',  2009,'G','Journey (LHD)(FWD) JC Family');
+	insert into model_line values('MPV',  2009,'H','Journey (LHD)(AWD) JC Family');
+	insert into model_line values('MPV',  2009,'5' , 'Journey (RHD)(FWD) JC Family');
+	insert into model_line values('MPV', 2009,'T', 'Nitro (LHD)(4x2) KA Family');
+	insert into model_line values('MPV', 2009,'U', 'Nitro (LHD)(4x4) KA Family');									 
+	insert into model_line values('MPV', 2009,'R', 'Town & Country (LHD)(FWD) RT Family');
+	insert into model_line values('MPV', 2009,'S', 'Grand Voyager (LHD)(FWD) RT Family');
+	insert into model_line values('MPV', 2009,'T', 'Grand Voyager (RHD)(FWD) RT Family');
+	insert into model_line values('MPV', 2009,'N', 'Caravan (LHD)(FWD) RT Family');
+	insert into model_line values('MPV', 2009,'9', 'Nitro (RHD)(4x4) KA Family');
+
+-- VIN 	'6' Series/Price Class
+	insert into series_price_class values('Truck', 2009, '1' ,'1500');
+	insert into series_price_class values('Truck', 2009, '2' , '2500'); 
+	insert into series_price_class values('Truck', 2009, '3' , '3500 Less DRW');
+	insert into series_price_class values('Truck', 2009, '4' , '3500 DRW');
+	insert into series_price_class values('Truck', 2009, '5' , '4000 DWR');
+	insert into series_price_class values('Truck', 2009, '6' , '4500 DWR');
+	insert into series_price_class values('Truck', 2009, '7' , '5500 DWR');
+	insert into series_price_class values('MPV', 2009, '1' , 'E (Economy)');	
+	insert into series_price_class values('MPV', 2009,'2' , 'L (Low Line)');
+	insert into series_price_class values('MPV', 2009,'3' , 'M (Medium)'); 
+	insert into series_price_class values('MPV', 2009,'4' , 'H (High Line)');
+	insert into series_price_class values('MPV', 2009,'5' , 'P (Premium)');			
+	insert into series_price_class values('MPV', 2009,'6' , 'S (Sport)');				
+	insert into series_price_class values('MPV', 2009,'7' , 'X (Special)');
+
+-- VIN 	'7' Body Style by Vehicle Line
+	insert into body_style_by_vehicle_line values(2009,'Dakota','2','Extended Cab / Dakota Pickup');
+	insert into body_style_by_vehicle_line values(2009,'Dakota','8','Crew Cab / Dakota Pickup');
+	insert into body_style_by_vehicle_line values(2009,'Ram','3','Crew Cab');
+	insert into body_style_by_vehicle_line values(2009,'Ram','8','Quad Cab');
+	insert into body_style_by_vehicle_line values(2009,'Ram','6','Regular Cab/Chassis');
+	insert into body_style_by_vehicle_line values(2009,'Ram','9','Mega Cab');
+	insert into body_style_by_vehicle_line values(2009,'MPV','1','Grand Caravan C/V');
+	insert into body_style_by_vehicle_line values(2009,'MPV','7' , 'Journey Body Style');
+	insert into body_style_by_vehicle_line values(2009,'MPV','8' , 'Sport Utility 4 Door');
+	insert into body_style_by_vehicle_line values(2009,'MPV','4' , 'Grand Caravan/T&C');
+
+-- VIN 	'8' Engine
+	insert into engine values(2009,'Y','2.0L 4CYL Diesel');
+	insert into engine values(2009,'B','2.4L 4CYL Gasoline Non-Turbo');
+	insert into engine values(2009,'D','2.7L 6CYL Gasoline Non-Turbo');
+	insert into engine values(2009,'5','2.8L 4CYL Diesel');
+	insert into engine values(2009,'E','3.3L 6CYL Gasoline Non-Turbo');
+	insert into engine values(2009,'V','3.5L 6CYL Gasoline Non-Turbo');
+	insert into engine values(2009,'K','3.7L 6CYL Gasoline Non-Turbo');
+	insert into engine values(2009,'1','3.8L 6CYL Gasoline Non-Turbo');
+	insert into engine values(2009,'X','4.0L 6CYL Gasoline Non-Turbo');
+	insert into engine values(2009,'P','4.7L 8CYL Gasoline Non-Turbo');
+	insert into engine values(2009,'T','5.7L 8CYL Gasoline Non-Turbo');
+	insert into engine values(2009,'7','5.9L 6CYL Diesel');
+	insert into engine values(2009,'L','6.7L 6CYL Diesel');
